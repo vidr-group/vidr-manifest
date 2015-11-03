@@ -1,5 +1,5 @@
 <manifest>
-	<remote name="github" fetch="ssh://git@github.com:vidr-group"/>
+	<remote name="github" fetch="https://github.com/vidr-group"/>
 	<default revision="refs/heads/master" remote="github" sync-j="4"/>
 	<project remote="github" name="vidr-core" path="core"/>
 	<project remote="github" name="vidr-web"  path="web"/>
