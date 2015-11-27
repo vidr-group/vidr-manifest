@@ -1,6 +1,6 @@
 <manifest>
-	<remote name="github" fetch="https://github.com/vidr-group"/>
-	<default revision="refs/heads/master" remote="github" sync-j="4"/>
-	<project remote="github" name="vidr-core" path="core"/>
-	<project remote="github" name="vidr-web"  path="web"/>
+	<remote name="origin" fetch="https://github.com/vidr-group"/>
+	<default revision="refs/heads/master" remote="origin" sync-j="4"/>
+	<project remote="origin" name="vidr-core" path="core"/>
+	<project remote="origin" name="vidr-web"  path="web"/>
 </manifest>
