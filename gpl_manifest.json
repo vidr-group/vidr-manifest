@@ -1,0 +1,24 @@
+{
+  "remotes": {
+    "github": {
+      "type": "ssh",
+      "user": "git",
+      "url": "github.com",
+      "git_name": "origin"
+    }
+  },
+  "repositories": {
+    "core": {
+      "remote": "github",
+      "user": "vidr-group",
+      "repo": "vidr-core",
+      "path": "core"
+    },
+    "web": {
+      "remote": "github",
+      "user": "vidr-group",
+      "repo": "vidr-web",
+      "path": "web"
+    }
+  }
+}
