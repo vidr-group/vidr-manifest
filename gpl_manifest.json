@@ -7,7 +7,7 @@
       "git_name": "origin"
     }
   },
-  "repositories": {
+  "repositories": [
     "core": {
       "remote": "github",
       "user": "vidr-group",
@@ -20,5 +20,5 @@
       "repo": "vidr-web",
       "path": "web"
     }
-  }
+  ]
 }
